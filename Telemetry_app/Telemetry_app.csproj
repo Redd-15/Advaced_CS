@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="auto_s.png" />
+    <None Remove="auto_wheels_inside.png" />
+    <None Remove="BCKG.png" />
+    <None Remove="wheel.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FireSharp" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="auto_s.png" />
+    <Resource Include="auto_wheels_inside.png" />
+    <Resource Include="BCKG.png" />
+    <Resource Include="wheel.png" />
+  </ItemGroup>
+
+</Project>

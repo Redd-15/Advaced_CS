@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sikor\\Documents\\ME\\Study_2\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\Telemetry_app.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sikor\\Documents\\ME\\Study_2\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\Telemetry_app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sikor\\Documents\\ME\\Study_2\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\Telemetry_app.csproj",
+        "projectName": "Telemetry_app",
+        "projectPath": "C:\\Users\\sikor\\Documents\\ME\\Study_2\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\Telemetry_app.csproj",
+        "packagesPath": "C:\\Users\\sikor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sikor\\Documents\\ME\\Study_2\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sikor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "FireSharp": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

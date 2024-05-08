@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sikor\\Documents\\ME\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EF6218-978F-4369-836E-3949DF6E270A}|Telemetry_app.csproj|c:\\users\\sikor\\documents\\me\\study_git_sync\\2023-2024-2\\cs_beadando\\telemetry_app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D2EF6218-978F-4369-836E-3949DF6E270A}|Telemetry_app.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EF6218-978F-4369-836E-3949DF6E270A}|Telemetry_app.csproj|c:\\users\\sikor\\documents\\me\\study_git_sync\\2023-2024-2\\cs_beadando\\telemetry_app\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EF6218-978F-4369-836E-3949DF6E270A}|Telemetry_app.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EF6218-978F-4369-836E-3949DF6E270A}|Telemetry_app.csproj|c:\\users\\sikor\\documents\\me\\study_git_sync\\2023-2024-2\\cs_beadando\\telemetry_app\\telemetry_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2EF6218-978F-4369-836E-3949DF6E270A}|Telemetry_app.csproj|solutionrelative:telemetry_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EF6218-978F-4369-836E-3949DF6E270A}|Telemetry_app.csproj|c:\\users\\sikor\\documents\\me\\study_git_sync\\2023-2024-2\\cs_beadando\\telemetry_app\\telemetrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EF6218-978F-4369-836E-3949DF6E270A}|Telemetry_app.csproj|solutionrelative:telemetrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EF6218-978F-4369-836E-3949DF6E270A}|Telemetry_app.csproj|c:\\users\\sikor\\documents\\me\\study_git_sync\\2023-2024-2\\cs_beadando\\telemetry_app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EF6218-978F-4369-836E-3949DF6E270A}|Telemetry_app.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 240,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Telemetry_app.csproj",
+              "DocumentMoniker": "C:\\Users\\sikor\\Documents\\ME\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\Telemetry_app.csproj",
+              "RelativeDocumentMoniker": "Telemetry_app.csproj",
+              "ToolTip": "C:\\Users\\sikor\\Documents\\ME\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\Telemetry_app.csproj",
+              "RelativeToolTip": "Telemetry_app.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T08:26:15.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\sikor\\Documents\\ME\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\Connection.cs",
+              "RelativeDocumentMoniker": "Connection.cs",
+              "ToolTip": "C:\\Users\\sikor\\Documents\\ME\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\Connection.cs",
+              "RelativeToolTip": "Connection.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:26:12.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TelemetryModel.cs",
+              "DocumentMoniker": "C:\\Users\\sikor\\Documents\\ME\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\TelemetryModel.cs",
+              "RelativeDocumentMoniker": "TelemetryModel.cs",
+              "ToolTip": "C:\\Users\\sikor\\Documents\\ME\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\TelemetryModel.cs",
+              "RelativeToolTip": "TelemetryModel.cs",
+              "ViewState": "AQIAAJEBAAAAAAAAAAAAwKkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:42:38.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sikor\\Documents\\ME\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sikor\\Documents\\ME\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwDcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T09:42:38.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sikor\\Documents\\ME\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sikor\\Documents\\ME\\Study_Git_sync\\2023-2024-2\\CS_beadando\\Telemetry_app\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T09:42:39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
